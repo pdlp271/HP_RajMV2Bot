@@ -1,16 +1,17 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, {}</b>
+    START_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, 
+    {}</b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 
-<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href=https//t.me/HP_Raj_Support_Bot>ӇƤ Ʀƛʆ</a></b>"""
+<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href='https//t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a> </b>"""
 
 
-    GSTART_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, {}</b>
+    GSTART_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, </b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 
-<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href=https//t.me/HP_Raj_Support_Bot>ӇƤ Ʀƛʆ</a></b>"""
+<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href='https//t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a> </b>"""
 
     
     HELP_TXT = """<b>
@@ -482,7 +483,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
     
     VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
     
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ 
+    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
     ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
     
     ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
@@ -498,7 +499,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
     SECOND_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
     
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ 
+    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
     ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
     
     ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
@@ -513,7 +514,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
     THIRDT_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
     
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ 
+    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
     ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
     
     ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
