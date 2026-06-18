@@ -4,14 +4,14 @@ class script(object):
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 
-<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href='https//t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a> </b>"""
+<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
 
     GSTART_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, </b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 
-<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :-  <a href='https//t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a> </b>"""
+<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
     
     HELP_TXT = """<b>
@@ -481,12 +481,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 • /reset_group - ʀᴇꜱᴇᴛ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ.
 • /details - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴇᴛᴛɪɴɢꜱ."""
     
-    VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
-    
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
-    ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
-    
-    ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
+    VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗\n\n ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ\nᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ\n\nᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
     
 
     VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
@@ -497,12 +492,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
  ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ?. ᴋɪɴᴅʟʏ ʙᴜʏ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ : /plan</i></b>"""
 
-    SECOND_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
-    
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
-    ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
-    
-    ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
+    SECOND_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗\n\n ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ\nᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ\n\nᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
     SECOND_VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
     
@@ -512,12 +502,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
  ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ?. ᴋɪɴᴅʟʏ ʙᴜʏ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ : /plan</i></b>"""
 
-    THIRDT_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗
-    
-    ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ
-    ᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ
-    
-    ᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
+    THIRDT_VERIFICATION_TEXT = """<b>❗ʏᴏᴜʀ ᴛᴏᴋᴇɴ ɪꜱ ᴇxᴩɪʀᴇᴅ❗\n\n ᴩʟᴇᴀꜱᴇ ɢᴇɴᴇʀᴀᴛᴇ ɴᴇᴡ ᴛᴏᴋᴇɴ ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ\nᴠᴀʟɪᴅɪᴛʏ : 24 ʜᴏᴜʀꜱ\n\nᴀɴʏ ᴅᴏᴜʙᴛ? ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
     THIRDT_VERIFY_COMPLETE_TEXT= """<b><i>👋 ʜᴇʏ {},
     
