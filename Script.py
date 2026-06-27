@@ -1,14 +1,14 @@
 class script(object):
     START_TXT = """<b>ʜᴇʏ ʜɪ  {} 👋,</b>
 
-<b>I ᴀᴍ <a href=https://t.me/HP_RajMVBot>{}</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
+<b>I ᴀᴍ <a href=https://t.me/HP_RajMVBot>HP Raj</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
 
 <b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
 
     GSTART_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, </b>
 
-<b>I ᴀᴍ <a href=https://t.me/HP_RajMVBot>{}</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
+<b>I ᴀᴍ <a href=https://t.me/HP_RajMVBot>HP Raj</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
 
 <b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
