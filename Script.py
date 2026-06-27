@@ -1,15 +1,14 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, 
-    {}</b>
+    START_TXT = """<b>ʜᴇʏ ʜɪ  {} 👋,</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+<b> ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
 
 <b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
 
     GSTART_TXT = """<b>ʜᴇʏ ʜɪ {} 👋, </b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴄᴏᴏʟᴇsᴛ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ ʙᴏᴛ ɪɴ ᴛʜᴇ Sᴇɢᴍᴇɴᴛ.</b>
 
 <b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ :- <a href='https://t.me/HP_Raj_Support_Bot'>ӇƤ Ʀƛʆ</a></b>"""
 
@@ -40,7 +39,7 @@ class script(object):
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
+├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://HP_Raj_MOVIES'>ᴠᴩɴ</a> 
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ1.4 [ ꜱᴛᴀʙʟᴇ ]
 ╰───────────────⍟</b>"""
     RESTART_TXT = """
@@ -147,8 +146,8 @@ Nᴀᴍᴇ - {}
 
 
     DEL_MSG = """<blockquote expandable><b><i> ⧗ Dᴜᴇ ᴛᴏ Cᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs....</i></b></blockquote>
-<blockquote expandable><b><i>›› Yᴏᴜʀ ғɪʟᴇs ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ᴡɪᴛʜɪɴ <b><u><code>{}</code></u></b>. Sᴏ ғᴏʀᴡᴀʀᴅ ᴛʜᴇᴍ ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.</i></b></blockquote>
-<blockquote expandable><b><i>≡ ɴᴏᴛᴇ : ᴜsᴇ VLC / MX Player for best experience.</i></b></blockquote>"""
+<blockquote expandable><b><i>›› Yᴏᴜʀ ғɪʟᴇs ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ᴡɪᴛʜɪɴ <b><u><code>{}</code></u></b>. Sᴏ ғᴏʀᴡᴀʀᴅ ɪᴛ ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.</i></b></blockquote>
+<blockquote expandable><b><i>≡ ɴᴏᴛᴇ : ᴜsᴇ 𝐕𝐋𝐂 / 𝐌𝐗 ᴩʟᴀʏᴇʀ ꜰᴏʀ ʙᴇᴛᴛᴇʀ ᴇxᴩᴇʀɪᴇɴᴄᴇ.</i></b></blockquote>"""
 
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
@@ -234,7 +233,7 @@ Nᴀᴍᴇ - {}
 
 🛑 ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴅ ᴄʜᴀɴɴᴇʟs ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ.
 
-<blockquote>👉 ᴊᴏɪɴ ᴀʟʟ ᴛʜᴇ ʙᴇʟᴏᴡ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ.</blockquote></b>"""
+<blockquote>👉 ᴊᴏɪɴ ᴀʟʟ ᴛʜᴇ ʙᴇʟᴏᴡ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴄʟɪᴄᴋ ᴛʀʏ ᴀɢᴀɪɴ.</blockquote></b>"""
 
     BOT_ADD_TXT = """<b>ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {} ❣️
 
@@ -246,13 +245,13 @@ Nᴀᴍᴇ - {}
 
     LEAVE_CHAT_TXT = """<b>ʜᴇʟʟᴏ ꜰʀɪᴇɴᴅꜱ, 
 
-<blockquote>ᴍʏ ᴀᴅᴍɪɴ ʜᴀꜱ ᴛᴏʟᴅ ᴍᴇ ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ɢʀᴏᴜᴘ, ꜱᴏ ɪ ʜᴀᴠᴇ ᴛᴏ ɢᴏ ! ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ.</blockquote></b>"""
+<blockquote>ᴍʏ ᴀᴅᴍɪɴ ʜᴀꜱ ᴛᴏʟᴅ ᴍᴇ ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴛʜɪꜱ ɢʀᴏᴜᴘ, ꜱᴏ ɪ ʜᴀᴠᴇ ᴛᴏ ɢᴏ ! ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ ᴄᴏɴᴛᴀᴄᴛ ꜱᴜᴘᴘᴏʀᴛ.</blockquote></b>"""
 
-    SEARCHING_TXT = """<b><i> 𝖲𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 𝖿ᴏʀ '{}' 🔎</i></b>"""
+    SEARCHING_TXT = """<b><i> ᴡᴀɪᴛ ᴀ ᴍoᴍᴇɴᴛ.. </i></b>"""
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ ꜰᴏʀ ǫᴜᴇʀʏ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
 
-    MELCOW_ENG = """<b>👋 ʜᴇʏ {},\n\n🍁 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ\n🌟 {} \n\n🔍 ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ʏᴏᴜʀ ꜰᴀᴠᴏᴜʀɪᴛᴇ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ ʙʏ ᴊᴜꜱᴛ ᴛʏᴘɪɴɢ ɪᴛ'ꜱ ɴᴀᴍᴇ 🔎\n\n⚠️ ɪꜰ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴏʀ ꜱᴏᴍᴇᴛʜɪɴɢ ᴇʟꜱᴇ ᴛʜᴇɴ ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 👇</b>"""
+    MELCOW_ENG = """<b>👋 ʜᴇʏ ʜɪ {},\n\n🍁 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 🌟 {} \n\n🔍 ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ʏᴏᴜʀ ꜰᴀᴠᴏᴜʀɪᴛᴇ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ ʙʏ ᴊᴜꜱᴛ ᴛʏᴘɪɴɢ ɪᴛ'ꜱ ɴᴀᴍᴇ </b>"""
     
     DISCLAIMER_TXT = """
 <b>ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
@@ -303,17 +302,13 @@ Missed Movie : <b>{}</b>"""
 </b><b>{filename}</b> <b>{year}</b>
 
 <b>➩ Language</b> : <b>{language}</b>
-<b>➩ Quality</b> : <b>{quality}</b>
 <b>➩ Genres</b> : <b>{genres}</b>
-       <b>{episodes}</b>
+<b>➩ Quality</b> : <b>{quality}</b>
+<b>{episodes}</b>
 <b>×͜×  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏʀᴇ :- @HP_Raj_MOVIES</b> """
 
     IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
-
-ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>
-ɢᴇɴʀᴇ : {genres}
 ᴀᴜᴅɪᴏ : {languages}
-
 sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 <b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
 
@@ -512,12 +507,12 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
  ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛᴏᴋᴇɴ ɢᴇɴᴇʀᴀᴛɪɴɢ ?. ᴋɪɴᴅʟʏ ʙᴜʏ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ : /plan</i></b>"""
 
-    VERIFIED_LOG_TEXT = """ᴜꜱᴇʀ ᴠᴇʀɪꜰɪᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ✓
+    VERIFIED_LOG_TEXT = """✓ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ᴄᴏᴍᴩʟᴇᴛᴇᴅ ✓
 
 👤 ɴᴀᴍᴇ:- {} 
 🪪 ɪᴅ:- [ <code>{}</code> ]
 📆 ᴅᴀᴛᴇ:- <code>{} </code>
-#Verify_Completed"""
+#Verify{}_Completed"""
 
 
     ADMIN_CMD = """ʜᴇʏ 👋,
