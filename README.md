@@ -1,28 +1,25 @@
 <h1 align="center"><b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b></h1>
 
 <p align="center">
-  <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="DreamxBotz Logo">
+  <img src="https://github.com/DreamXBotz/Pics/blob/main/dreamxbotz.jpg" alt="HP Raj MOVIES Logo">
 </p>
 
-<h1 align="center">𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</h1>
+<h1 align="center">HP Raj MOVIES</h1>
 
 ---
 
 ## 👤 Owner
 
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/Deendayal_Support_Group)
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/hp_Raj_support_bot)
 
 ---
-
-<!-- > ## ⚠ <u>Under Maintenance</u> ⚠  
-> This repository is currently under maintenance. Please **DO NOT deploy** until further notice. -->
 
 ## 🚀 Demo Bot
 
 
 Try the live bot here:
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Princess_V4_bot)
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/hp_rajmvbot)
 
 ---
 
