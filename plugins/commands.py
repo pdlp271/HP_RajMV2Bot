@@ -31,7 +31,7 @@ BATCH_FILES = {}
 async def start(client, message):
     sticker = None
     try:
-        stick_id = "CAACAgUAAxkBAAECK7FqMVF7EiVWmS_EvfexdMuuW_sKcgACJRUAAoGfMFWD7ER08OxKzx4E"
+        stick_id = "CAACAgUAAxkBAAECM5VqSRlDBDKjBkKm0VZGUBtLhs09jQACxCIAAg3DSFaX14zrSv9H0h4E"
         try:
             sticker = await message.reply_sticker(sticker=stick_id)
         except Exception as e:
